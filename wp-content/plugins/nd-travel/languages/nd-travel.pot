@@ -1,0 +1,1125 @@
+# Copyright (C) 2016 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ndshortcodes\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: 2018-06-28 10:59+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n_noop;esc_attr__;"
+"esc_html_x;_nx;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/customizer/index.php:11 addons/visual/destinations/index.php:115
+#: addons/visual/order/index.php:107 addons/visual/packages/index.php:219
+#: addons/visual/search/index.php:140 inc/admin/import-export/index.php:27
+#: inc/admin/plugin-settings.php:44
+msgid "ND Travel"
+msgstr ""
+
+#: addons/customizer/index.php:14 inc/admin/import-export/index.php:39
+#: inc/admin/plugin-settings.php:55 inc/admin/plugin-settings.php:69
+msgid "Plugin Settings"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:31
+msgid "Dark 1"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:32
+msgid "Select color for your dark elements"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:56
+msgid "Dark 2"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:57
+msgid "Select color for your dark 2 elements"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:79
+msgid "Color 1"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:80
+msgid "Select color for your color 1 elements"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:103
+msgid "Color 2"
+msgstr ""
+
+#: addons/customizer/plugin-colors/index.php:104
+msgid "Select color for your color 2 elements"
+msgstr ""
+
+#: addons/customizer/styles/index.php:28 addons/visual/search/index.php:155
+msgid "Select Style"
+msgstr ""
+
+#: addons/visual/destinations/index.php:109
+#: addons/visual/packages/index.php:267 inc/cpt/cpt-3.php:9
+#: inc/cpt/cpt-3.php:10
+msgid "Destinations"
+msgstr ""
+
+#: addons/visual/destinations/index.php:111
+msgid "Add destinations Post Grid"
+msgstr ""
+
+#: addons/visual/destinations/index.php:121 addons/visual/order/index.php:113
+#: addons/visual/packages/index.php:225 addons/visual/search/index.php:146
+msgid "Layout"
+msgstr ""
+
+#: addons/visual/destinations/index.php:124 addons/visual/order/index.php:116
+#: addons/visual/packages/index.php:228 addons/visual/search/index.php:149
+msgid "Choose the layout"
+msgstr ""
+
+#: addons/visual/destinations/index.php:128
+#: addons/visual/packages/index.php:232 addons/visual/search/index.php:160
+msgid "Width"
+msgstr ""
+
+#: addons/visual/destinations/index.php:130
+#: addons/visual/packages/index.php:234 addons/visual/search/index.php:162
+#: addons/visual/search/index.php:190
+msgid "Select Width"
+msgstr ""
+
+#: addons/visual/destinations/index.php:130
+#: addons/visual/packages/index.php:234 addons/visual/search/index.php:162
+#: addons/visual/search/index.php:190
+msgid "20 %"
+msgstr ""
+
+#: addons/visual/destinations/index.php:130
+#: addons/visual/packages/index.php:234 addons/visual/search/index.php:162
+#: addons/visual/search/index.php:190
+msgid "25 %"
+msgstr ""
+
+#: addons/visual/destinations/index.php:130
+#: addons/visual/packages/index.php:234 addons/visual/search/index.php:162
+#: addons/visual/search/index.php:190
+msgid "33 %"
+msgstr ""
+
+#: addons/visual/destinations/index.php:130
+#: addons/visual/packages/index.php:234 addons/visual/search/index.php:162
+#: addons/visual/search/index.php:190
+msgid "50 %"
+msgstr ""
+
+#: addons/visual/destinations/index.php:130
+#: addons/visual/packages/index.php:234 addons/visual/search/index.php:162
+#: addons/visual/search/index.php:190
+msgid "100 %"
+msgstr ""
+
+#: addons/visual/destinations/index.php:131
+msgid "Select the width for destination preview grid"
+msgstr ""
+
+#: addons/visual/destinations/index.php:136
+msgid "Qnt destinations"
+msgstr ""
+
+#: addons/visual/destinations/index.php:138
+msgid "Insert the quantity of destinations that you want display."
+msgstr ""
+
+#: addons/visual/destinations/index.php:142 addons/visual/order/index.php:101
+#: addons/visual/packages/index.php:246
+msgid "Order"
+msgstr ""
+
+#: addons/visual/destinations/index.php:145
+#: addons/visual/packages/index.php:249
+msgid ""
+"Select the Order paramater, more info <a target='_blank' href='https://codex."
+"wordpress.org/it:Riferimento_classi/"
+"WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+msgstr ""
+
+#: addons/visual/destinations/index.php:149
+#: addons/visual/packages/index.php:253
+msgid "Order By"
+msgstr ""
+
+#: addons/visual/destinations/index.php:152
+#: addons/visual/packages/index.php:256
+msgid ""
+"Select the OrderBy paramater, more info <a target='_blank' href='https://"
+"codex.wordpress.org/it:Riferimento_classi/"
+"WP_Query#Parametri_Order_.26_Orderby'>here</a>"
+msgstr ""
+
+#: addons/visual/destinations/index.php:157
+msgid "ID destination"
+msgstr ""
+
+#: addons/visual/destinations/index.php:159
+msgid ""
+"Insert the id of the destination that you want display ( NB: only one "
+"destination )"
+msgstr ""
+
+#: addons/visual/destinations/index.php:163
+#: addons/visual/packages/index.php:283
+msgid "Image Size"
+msgstr ""
+
+#: addons/visual/destinations/index.php:167
+#: addons/visual/packages/index.php:287
+msgid "Choose the image size that you want to use"
+msgstr ""
+
+#: addons/visual/destinations/index.php:172
+#: addons/visual/packages/index.php:292
+msgid "Padding"
+msgstr ""
+
+#: addons/visual/destinations/index.php:174
+#: addons/visual/packages/index.php:294
+msgid "Insert the padding in px ( eg : 20px or 10px 15px 20px 25px )"
+msgstr ""
+
+#: addons/visual/destinations/index.php:179 addons/visual/order/index.php:121
+#: addons/visual/packages/index.php:300 addons/visual/search/index.php:252
+msgid "Custom class"
+msgstr ""
+
+#: addons/visual/destinations/index.php:181 addons/visual/order/index.php:123
+#: addons/visual/packages/index.php:302 addons/visual/search/index.php:254
+msgid "Insert custom class"
+msgstr ""
+
+#: addons/visual/order/index.php:103
+msgid "Add Order"
+msgstr ""
+
+#: addons/visual/order/index.php:129
+msgid "Bg color"
+msgstr ""
+
+#: addons/visual/order/index.php:131
+msgid "Insert bg color"
+msgstr ""
+
+#: addons/visual/order/index.php:137
+msgid "Bg color 2"
+msgstr ""
+
+#: addons/visual/order/index.php:139
+msgid "Insert bg color 2"
+msgstr ""
+
+#: addons/visual/order/index.php:145
+msgid "Text Color"
+msgstr ""
+
+#: addons/visual/order/index.php:147
+msgid "Insert text color"
+msgstr ""
+
+#: addons/visual/order/index.php:153
+msgid "Text Color Active"
+msgstr ""
+
+#: addons/visual/order/index.php:155
+msgid "Insert text active color"
+msgstr ""
+
+#: addons/visual/order/index.php:161
+msgid "Arrow Icon"
+msgstr ""
+
+#: addons/visual/order/index.php:163 addons/visual/order/index.php:170
+#: addons/visual/order/index.php:177
+msgid "Select image from media library."
+msgstr ""
+
+#: addons/visual/order/index.php:168
+msgid "List Icon"
+msgstr ""
+
+#: addons/visual/order/index.php:175
+msgid "Grid Icon"
+msgstr ""
+
+#: addons/visual/order/layout/layout-1.php:77 inc/metabox/mtb-cpt-1.php:341
+msgid "Price"
+msgstr ""
+
+#: addons/visual/order/layout/layout-1.php:81
+#: inc/shortcodes/include/search-results/nd_travel_search_results_order_options.php:83
+msgid "Lowest Price"
+msgstr ""
+
+#: addons/visual/order/layout/layout-1.php:82
+#: inc/shortcodes/include/search-results/nd_travel_search_results_order_options.php:84
+msgid "Highest Price"
+msgstr ""
+
+#: addons/visual/order/layout/layout-1.php:88
+msgid "Name"
+msgstr ""
+
+#: addons/visual/order/layout/layout-1.php:92
+msgid "Desc"
+msgstr ""
+
+#: addons/visual/order/layout/layout-1.php:93
+msgid "Asc"
+msgstr ""
+
+#: addons/visual/packages/index.php:176
+#: addons/visual/search/layout/layout-1.php:36
+#: inc/shortcodes/include/search-results/include/nd_travel_destinations.php:33
+msgid "All Destinations"
+msgstr ""
+
+#: addons/visual/packages/index.php:182
+msgid "No destinations found"
+msgstr ""
+
+#: addons/visual/packages/index.php:195
+#: addons/visual/search/layout/layout-1.php:99
+msgid "All Typologies"
+msgstr ""
+
+#: addons/visual/packages/index.php:201
+msgid "No typologies found"
+msgstr ""
+
+#: addons/visual/packages/index.php:213 inc/cpt/cpt-1.php:9
+#: inc/cpt/cpt-1.php:10
+msgid "Packages"
+msgstr ""
+
+#: addons/visual/packages/index.php:215
+msgid "Add packages Post Grid"
+msgstr ""
+
+#: addons/visual/packages/index.php:235
+msgid "Select the width for room preview grid"
+msgstr ""
+
+#: addons/visual/packages/index.php:240
+msgid "Qnt packages"
+msgstr ""
+
+#: addons/visual/packages/index.php:242
+msgid "Insert the quantity of packages that you want display."
+msgstr ""
+
+#: addons/visual/packages/index.php:261
+msgid "ID room"
+msgstr ""
+
+#: addons/visual/packages/index.php:263
+msgid "Insert the id of the room that you want display ( NB: only one room )"
+msgstr ""
+
+#: addons/visual/packages/index.php:271
+msgid "Select the destination that you want to filter"
+msgstr ""
+
+#: addons/visual/packages/index.php:275 inc/cpt/cpt-2.php:9
+#: inc/cpt/cpt-2.php:10 inc/metabox/mtb-cpt-1.php:194
+#: inc/shortcodes/include/search-results/include/nd_travel_typologies.php:15
+msgid "Typologies"
+msgstr ""
+
+#: addons/visual/packages/index.php:279
+msgid "Select the typology that you want to filter"
+msgstr ""
+
+#: addons/visual/packages/layout/layout-1.php:76
+#: addons/visual/packages/layout/layout-2.php:91
+#: addons/visual/packages/layout/layout-3.php:78
+#: inc/shortcodes/include/search-results/nd_travel_post_preview-1.php:40
+#: inc/shortcodes/include/search-results/nd_travel_post_preview-2.php:47
+#: templates/cpt-1-layouts/layout-1.php:161
+msgid "SALE"
+msgstr ""
+
+#: addons/visual/packages/layout/layout-1.php:223
+#: addons/visual/packages/layout/layout-2.php:240
+#: inc/shortcodes/include/search-results/nd_travel_post_preview-1.php:187
+#: inc/shortcodes/include/search-results/nd_travel_post_preview-2.php:167
+msgid "DETAILS"
+msgstr ""
+
+#: addons/visual/packages/layout/layout-4.php:220
+msgid "FROM"
+msgstr ""
+
+#: addons/visual/search/index.php:134
+msgid "Search"
+msgstr ""
+
+#: addons/visual/search/index.php:136
+msgid "Add search"
+msgstr ""
+
+#: addons/visual/search/index.php:153
+msgid "Fields Style"
+msgstr ""
+
+#: addons/visual/search/index.php:155
+msgid "Default Style"
+msgstr ""
+
+#: addons/visual/search/index.php:155
+msgid "Dark Style"
+msgstr ""
+
+#: addons/visual/search/index.php:156
+msgid "Select if you want the default fields style or the dark version"
+msgstr ""
+
+#: addons/visual/search/index.php:163
+msgid "Select the width"
+msgstr ""
+
+#: addons/visual/search/index.php:168
+msgid "Fields Padding"
+msgstr ""
+
+#: addons/visual/search/index.php:170
+msgid ""
+"Insert the padding of all fields in px ( eg : '20px' or '20px 15px' for top/"
+"bottom and left/right )"
+msgstr ""
+
+#: addons/visual/search/index.php:175
+msgid "Submit Bg Color"
+msgstr ""
+
+#: addons/visual/search/index.php:177
+msgid "Choose submit bg color"
+msgstr ""
+
+#: addons/visual/search/index.php:182
+msgid "Submit Padding"
+msgstr ""
+
+#: addons/visual/search/index.php:184
+msgid ""
+"Insert the submit padding in px ( eg : '20px' or '20px 15px' for top/bottom "
+"and left/right )"
+msgstr ""
+
+#: addons/visual/search/index.php:188
+msgid "Submit Width"
+msgstr ""
+
+#: addons/visual/search/index.php:191
+msgid "Select the width of your button"
+msgstr ""
+
+#: addons/visual/search/index.php:196
+msgid "Action Page ID"
+msgstr ""
+
+#: addons/visual/search/index.php:198
+msgid ""
+"Action Page ID ( not mandatory ), use this field ONLY if you want to "
+"redirect the search button to a different page, insert only the ID of your "
+"site page ( only number )"
+msgstr ""
+
+#: addons/visual/search/index.php:202
+msgid "Remove fields"
+msgstr ""
+
+#: addons/visual/search/index.php:204
+msgid "Select"
+msgstr ""
+
+#: addons/visual/search/index.php:204 addons/visual/search/index.php:211
+#: addons/visual/search/index.php:218 addons/visual/search/index.php:225
+#: addons/visual/search/index.php:232 addons/visual/search/index.php:239
+#: addons/visual/search/index.php:246 inc/metabox/mtb-cpt-1.php:549
+msgid "Yes"
+msgstr ""
+
+#: addons/visual/search/index.php:204 inc/metabox/mtb-cpt-1.php:550
+msgid "Not"
+msgstr ""
+
+#: addons/visual/search/index.php:205
+msgid "Select if you want to remove some fields"
+msgstr ""
+
+#: addons/visual/search/index.php:209
+msgid "Hide Keyword Field"
+msgstr ""
+
+#: addons/visual/search/index.php:216
+msgid "Hide Destinations Field"
+msgstr ""
+
+#: addons/visual/search/index.php:223
+msgid "Hide Typologies Field"
+msgstr ""
+
+#: addons/visual/search/index.php:230
+msgid "Hide Durations Field"
+msgstr ""
+
+#: addons/visual/search/index.php:237
+msgid "Hide Difficulty Field"
+msgstr ""
+
+#: addons/visual/search/index.php:244
+msgid "Hide Min Age Field"
+msgstr ""
+
+#: addons/visual/search/index.php:293
+msgid "All"
+msgstr ""
+
+#: addons/visual/search/layout/layout-1.php:15
+msgid "Insert keyword"
+msgstr ""
+
+#: addons/visual/search/layout/layout-1.php:133
+msgid "SEARCH"
+msgstr ""
+
+#: inc/admin/import-export/index.php:7 inc/admin/import-export/index.php:40
+#: inc/admin/plugin-settings.php:56
+msgid "Import Export"
+msgstr ""
+
+#: inc/admin/import-export/index.php:41 inc/admin/plugin-settings.php:57
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/import-export/index.php:55
+msgid "Import/Export"
+msgstr ""
+
+#: inc/admin/import-export/index.php:56
+msgid "Export or Import your theme options."
+msgstr ""
+
+#: inc/admin/import-export/index.php:89
+msgid "Export Settings"
+msgstr ""
+
+#: inc/admin/import-export/index.php:90
+msgid "Export Nd Booking and customizer options."
+msgstr ""
+
+#: inc/admin/import-export/index.php:96
+msgid "Export"
+msgstr ""
+
+#: inc/admin/import-export/index.php:112
+msgid "Import Settings"
+msgstr ""
+
+#: inc/admin/import-export/index.php:113
+msgid "Paste in the textarea the text of your export file"
+msgstr ""
+
+#: inc/admin/import-export/index.php:121
+msgid "Import"
+msgstr ""
+
+#: inc/admin/import-export/index.php:175 inc/admin/import-export/index.php:184
+msgid "Updated option"
+msgstr ""
+
+#: inc/admin/import-export/index.php:175
+msgid "with"
+msgstr ""
+
+#: inc/admin/import-export/index.php:184
+msgid "with the same value"
+msgstr ""
+
+#: inc/admin/import-export/index.php:196
+msgid "No value founded for"
+msgstr ""
+
+#: inc/admin/import-export/index.php:196
+msgid "option."
+msgstr ""
+
+#: inc/admin/import-export/index.php:210
+msgid "Empty textarea, please paste your export options."
+msgstr ""
+
+#: inc/admin/plugin-settings.php:8
+msgid "Travel Plugin"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:70
+msgid "Below some important plugin settings."
+msgstr ""
+
+#: inc/admin/plugin-settings.php:80
+msgid "Currency"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:81
+msgid "Plugin Currency"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:86
+msgid "Insert the currency. Eg: $"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:99
+msgid "After Price"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:99
+msgid "Before Price"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:107
+msgid "Select the currency position"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:120
+msgid "Date Format"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:121
+msgid "Customize your format"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:143
+msgid "Select the date format that you want to use"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:160
+msgid "Container"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:161
+msgid "Remove default container"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:166
+msgid ""
+"If your theme does not need the default container of 1200px in template "
+"pages you can remove it by flagging the checkbox."
+msgstr ""
+
+#: inc/admin/plugin-settings.php:177
+msgid "Search Page"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:178
+msgid "Select your search page"
+msgstr ""
+
+#: inc/admin/plugin-settings.php:198
+msgid ""
+"Select the page where you have added the shortcode [nd_travel_search_results]"
+msgstr ""
+
+#: inc/cpt/cpt-1.php:29
+msgid "ND Travel Sidebar"
+msgstr ""
+
+#: inc/cpt/cpt-1.php:52
+#: inc/shortcodes/include/search-results/include/nd_travel_durations.php:12
+msgid "Durations"
+msgstr ""
+
+#: inc/cpt/cpt-1.php:62
+#: inc/shortcodes/include/search-results/include/nd_travel_difficulties.php:10
+msgid "Difficulty"
+msgstr ""
+
+#: inc/cpt/cpt-1.php:72
+#: inc/shortcodes/include/search-results/include/nd_travel_minage.php:10
+msgid "Min Age"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:14 inc/metabox/mtb-cpt-2.php:8
+#: inc/metabox/mtb-cpt-3.php:7
+msgid "Metabox"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:82 inc/metabox/mtb-cpt-2.php:47
+#: inc/metabox/mtb-cpt-3.php:51
+msgid "Main Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:83
+msgid "Price Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:84 inc/metabox/mtb-cpt-2.php:48
+#: inc/metabox/mtb-cpt-3.php:52
+msgid "Page Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:85
+msgid "Preview Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:86
+msgid "Booking Settings"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:98
+msgid "Destination"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:123
+msgid "Select the destination of your package"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:196
+msgid ""
+"This is an intuitive field, enter your typologies previously created in the "
+"typologies section ( separated by comma )"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:269
+msgid "Availability"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:274
+msgid "From"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:278
+msgid "To"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:343
+msgid ""
+"Insert the price number ( only number ) currency can be sets on plugin "
+"options"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:347
+msgid "Promotion Price"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:349
+msgid ""
+"Insert the promotion price number ( only number ) currency can be sets on "
+"plugin options"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:367 inc/metabox/mtb-cpt-2.php:132
+#: inc/metabox/mtb-cpt-3.php:65
+msgid "Color"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:369 inc/metabox/mtb-cpt-3.php:67
+msgid "Set package color"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:383 inc/metabox/mtb-cpt-2.php:152
+#: inc/metabox/mtb-cpt-3.php:81
+msgid "Text Preview"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:385 inc/metabox/mtb-cpt-3.php:83
+msgid "Insert the text preview which will be visible on the post grid preview"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:389
+msgid "Featured Image size"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:393
+msgid "Large"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:409
+msgid "Select the image size that you want to use for your featured image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:413
+msgid "Featured Image Replace"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:415
+msgid ""
+"Replace the featured image with your custom content ( available in packages "
+"post grid component for layout 4 )"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:425 inc/metabox/mtb-cpt-2.php:170
+#: inc/metabox/mtb-cpt-3.php:132
+msgid "Header Image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:427 inc/metabox/mtb-cpt-2.php:63
+#: inc/metabox/mtb-cpt-2.php:172 inc/metabox/mtb-cpt-3.php:134
+msgid "Upload"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:428 inc/metabox/mtb-cpt-2.php:173
+#: inc/metabox/mtb-cpt-3.php:135
+msgid "Insert the header image url"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:489 inc/metabox/mtb-cpt-2.php:234
+#: inc/metabox/mtb-cpt-3.php:196
+msgid "Image Position"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:493 inc/metabox/mtb-cpt-2.php:238
+#: inc/metabox/mtb-cpt-3.php:200
+msgid "Center"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:494 inc/metabox/mtb-cpt-2.php:239
+#: inc/metabox/mtb-cpt-3.php:201
+msgid "Top"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:495 inc/metabox/mtb-cpt-2.php:240
+#: inc/metabox/mtb-cpt-3.php:202
+msgid "Bottom"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:499 inc/metabox/mtb-cpt-2.php:244
+#: inc/metabox/mtb-cpt-3.php:206
+msgid "Select the image position for your header image"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:503 inc/metabox/mtb-cpt-2.php:248
+#: inc/metabox/mtb-cpt-3.php:210
+msgid "Page Layout"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:508 inc/metabox/mtb-cpt-2.php:253
+#: inc/metabox/mtb-cpt-3.php:215
+msgid "Layout 1"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:509 inc/metabox/mtb-cpt-2.php:254
+#: inc/metabox/mtb-cpt-3.php:216
+msgid "Free Content"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:514
+msgid "Select the layout for your package page"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:519
+msgid "Sidebar"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:524
+msgid "None"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:525
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:526
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:531
+msgid "Select if you want the sidebar or not"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:544
+msgid "Info Request Form"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:555
+msgid "Select if you want to show a cotact form on single package page"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:560
+msgid "Cf7 Form"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-1.php:585
+msgid "Select the contact form that you want to use"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:49 inc/metabox/mtb-cpt-3.php:53
+msgid "Info Box"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:60
+msgid "Icon"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:65
+msgid "Set the icon image for your typology"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:134
+msgid "Set the service color"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:154
+msgid ""
+"Insert the text preview which will be visible in the preview of the typology"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:259 inc/metabox/mtb-cpt-3.php:221
+msgid "Select the layout for your room page"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:271
+msgid "Agent Title"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:273 inc/metabox/mtb-cpt-2.php:284
+#: inc/metabox/mtb-cpt-3.php:235 inc/metabox/mtb-cpt-3.php:246
+msgid "Insert the title"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:276
+msgid "Agent Description"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:278 inc/metabox/mtb-cpt-2.php:289
+#: inc/metabox/mtb-cpt-3.php:240 inc/metabox/mtb-cpt-3.php:251
+msgid "Insert the description"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:282 inc/metabox/mtb-cpt-3.php:244
+msgid "Contact Title"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-2.php:287 inc/metabox/mtb-cpt-3.php:249
+msgid "Contact Description"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-3.php:89
+msgid "Parent Destination"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-3.php:100
+msgid "Not selected"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-3.php:117
+msgid "Select the parent destination"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-3.php:233
+msgid "Country Title"
+msgstr ""
+
+#: inc/metabox/mtb-cpt-3.php:238
+msgid "Country Description"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:10
+msgid "Select your date"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "January"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "February"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "March"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "April"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "May"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "June"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "July"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "August"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "September"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "October"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "November"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:36
+msgid "December"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Jan"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Feb"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Mar"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Apr"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Maj"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Jun"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Jul"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Aug"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Sep"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Oct"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Nov"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:37
+msgid "Dec"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "SU"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "MO"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "TU"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "WE"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "TH"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "FR"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:38
+msgid "SA"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:39
+msgid "NEXT"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_date.php:40
+msgid "PREV"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_destinations.php:10
+msgid "Select your destination"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_keyword.php:14
+msgid "Keyword"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_price.php:33
+msgid "Max Price"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/include/nd_travel_price.php:47
+msgid "See only promotions"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/nd_travel_search_results_order_options.php:79
+msgid "Stay Price"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/nd_travel_search_results_order_options.php:90
+msgid "Room Size"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/nd_travel_search_results_order_options.php:94
+msgid "Larger Room"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/nd_travel_search_results_order_options.php:95
+msgid "Smallest Room"
+msgstr ""
+
+#: inc/shortcodes/include/search-results/nd_travel_search_results_right_content.php:13
+msgid "Results Founded : "
+msgstr ""
+
+#: inc/shortcodes/include/search-results/nd_travel_search_results_right_content.php:23
+#: inc/shortcodes/nd_travel_search_result.php:594
+msgid "No results for this search"
+msgstr ""
+
+#: templates/cpt-2-layouts/layout-1.php:86
+#: templates/cpt-2-layouts/layout-1.php:172
+#: templates/cpt-3-layouts/layout-1.php:107
+#: templates/cpt-3-layouts/layout-1.php:193
+msgid "PACKAGES"
+msgstr ""
+
+#: templates/cpt-2-layouts/layout-1.php:87
+#: templates/cpt-3-layouts/layout-1.php:108
+msgid "Tours"
+msgstr ""
+
+#: templates/cpt-2-layouts/layout-1.php:87
+#: templates/cpt-3-layouts/layout-1.php:108
+msgid "in"
+msgstr ""
